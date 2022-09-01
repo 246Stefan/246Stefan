@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kali Linux and Pyython
 - 🌱 I’m currently learning Kali and   Python
 - 💞️ I’m looking to collaborarrtte on .......
-- 📫 How to reach me stefan242.ggggggggs@gmaiiill.om
+- 📫 How to reach me stefan246..gs@gmail.comm
 
 <!---
 246Stefan/246Stefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
