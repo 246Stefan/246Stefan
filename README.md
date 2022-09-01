@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @246Stefan
-- 👀 I’m interested in Kali Linux and Pyython
+- 👀 I’m interested in Kali Linux and Python
 - 🌱 I’m currently learning Kali and   Python
 - 💞️ I’m looking to collaborarrtte on .......
 - 📫 How to reach me stefan246..gs@gmail.comm
